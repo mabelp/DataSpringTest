@@ -1,0 +1,9 @@
+c:\users\mabelp\documents\visual studio 2013\Projects\DataSpringWinForm\DataSpringWinForm\bin\Debug\DataSpringWinForm.exe.config
+c:\users\mabelp\documents\visual studio 2013\Projects\DataSpringWinForm\DataSpringWinForm\bin\Debug\DataSpringWinForm.exe
+c:\users\mabelp\documents\visual studio 2013\Projects\DataSpringWinForm\DataSpringWinForm\bin\Debug\DataSpringWinForm.pdb
+c:\users\mabelp\documents\visual studio 2013\Projects\DataSpringWinForm\DataSpringWinForm\obj\Debug\DataSpringWinForm.csprojResolveAssemblyReference.cache
+c:\users\mabelp\documents\visual studio 2013\Projects\DataSpringWinForm\DataSpringWinForm\obj\Debug\DataSpringWinForm.Form1.resources
+c:\users\mabelp\documents\visual studio 2013\Projects\DataSpringWinForm\DataSpringWinForm\obj\Debug\DataSpringWinForm.Properties.Resources.resources
+c:\users\mabelp\documents\visual studio 2013\Projects\DataSpringWinForm\DataSpringWinForm\obj\Debug\DataSpringWinForm.csproj.GenerateResource.Cache
+c:\users\mabelp\documents\visual studio 2013\Projects\DataSpringWinForm\DataSpringWinForm\obj\Debug\DataSpringWinForm.exe
+c:\users\mabelp\documents\visual studio 2013\Projects\DataSpringWinForm\DataSpringWinForm\obj\Debug\DataSpringWinForm.pdb
